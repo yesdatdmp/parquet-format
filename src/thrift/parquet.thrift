@@ -175,6 +175,7 @@ enum FieldRepetitionType {
 
   /** The field is repeated and can contain 0 or more values */
   REPEATED = 2;
+
 }
 
 /**
